@@ -76,9 +76,9 @@
   - **Support Structures for Floating/Diagonal Bases:**
     - Must include support structures capable of holding platforms up to 10m or about 2 metal floors in any direction.
   - **Diagonal Extensions:** Bases jutting out diagonally from small sections will be removed after one warning.
-- **Vehicles in Bases:**
-  - Allowed to fire from base structures except for:
-    - `BRDM-2`, `BTR-60`, `T34`, `T55`, or any vehicle where the gunner isn't exposed.
+- **Vehicles Shooting from Bases:**
+  - Vehicles with the gunner exposed are allowed to shoot from bases.
+  - Not allowed: `BRDM-2`, `BTR-60`, `T34`, `T55`, `Dingo`, or any vehicle where the gunner isn't exposed.
 - **Plot Poles:**
   - Maximum of **3 plot poles per group**.
     - A group is defined as players who either share doors/safes with each other, or who play a majority of their playtime together.
