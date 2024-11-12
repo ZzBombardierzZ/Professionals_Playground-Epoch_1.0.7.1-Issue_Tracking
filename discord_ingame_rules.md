@@ -44,37 +44,34 @@
 - **No External Insults:** Insulting Discord or other social media platforms will result in a ban.
 - **No Server Advertising:** Advertising any server will lead to an immediate ban.
 - **Constructive Feedback Only:** Instead of negative comments like "the server sucks," suggest improvements on Discord where a poll might be initiated.
-- **No Impersonation:** Do not intentionally copy the name of any other player or admin.
+- **No Impersonation:** Do not ***intentionally*** copy the name of any other player or admin.
   - It's recommended to use a unique name, as some players use their first name, which if multiple people have the same first name, it may be hard to enforce against other players copying names.
   - **Unique Example:** `XxSharpShooterxX`
   - **Non-Unique Example:** `Frank`
 
-## **🏰 Base Building Rules Regarding Raiding**
-- **Base Requirements:**
-  - Must have a ground entrance.
-  - Bases can be raided but **not taken over**.
-  - Bases may be camped continuously without harassment.
-- **Access Control:**
-  - You may block access with walls if there's an alternative ground entry.
-  - All doors must be accessible on foot.
-  - **No Locked Lifts or Elevators:** These will be removed if found.
-  - **No Glitching In:** Do not use deployables or vehicles to bypass base defenses.
-  - **One-Way Entrances/Exits:** These are allowed.
-  - **No Unauthorized Logging:** Do not log off inside another player's base without permission.
-- **Raidable Yet Protected:**
-  - Bases should remain raidable but can be fortified to make raids more challenging.
-  - Do not make plot poles inaccessible; protect them behind doors instead.
-
-## **🏗️ Base Building Guidelines**
-- **Use the Build Check Tool:** Verify your building location before constructing.
+## **🏗️ Base Building and Raiding Guidelines**
+- **Hint - Use the Build Check Tool Before you Build Your Base:** To know if your desired base location is allowed, use the Player Menu > Build Check Tool.
 - **Base Design Requirements:**
-  - Must be accessible from the ground (no unsupported floating bases).
-  - **Water Bases:** Must touch water and have accessible entry points from the water.
-  - **Accessibility:** From the front door, all safes, storage crates, and sheds must be reachable.
+  - **No Floating Bases:** Must be accessible from the ground/water.
+    - **Water Bases:** Must touch water and have accessible entry from the water.
+  - **No Glitching:** It is not allowed to glitch in/out of your own base nor a base you're raiding.
+  - **Raiding Accessibility:** Someone raiding using a ground entrance should be able to access all Raidable Objects.
+    - **Definition of *Raidable Objects*:** Plot pole (VG), safes, lockboxes, storage objects, and vehicles.
+    - *Hint - Plot poles are unable to be removed or destroyed. However, enemies are able to access the Virtual Garage*.
+    - **Examples of Disallowed Raidable Base Design:**
+      - Not allowed to make any Raidable Object inaccessible or make invisible by hiding inside walls or objects. This includes hiding plot poles inside a wall, safe, or object were only a small portion is visible.
+      - Not allowed to use locked drawbridges or "elevator" garage doors to make the Raidable Objects inaccessible.
+    - **Examples of Allowed Raidable Base Design:**
+      - Allowed to have several doors from the ground entrance to the Raidable Objects. A limit of 20 doors is scripted.
+      - Allowed to have decoy doors.
+      - Allowed to have one way entrances, so long as there is a way out out of the base.
+      - Allowed to have maze-like bases, so long as it is possible to get to the Raidable Objects.
+      - Allowed to have have a drawbridge or "elevator" garage door to get to a part of the base that is not the plot pole or storages, such as roof access.
+    - ***Bottom line:*** __If you can't raid it, it's not allowed.__
   - **Realistic Design:** Bases should look believable and feasible in real life.
     - *Example of Disallowed Base:* A 300-tonne base built atop a lamppost.
-  - **Support Structures for Floating/Diagonal Bases:**
-    - Must include support structures capable of holding platforms up to 10m or about 2 metal floors in any direction.
+  - **Support Structures for Tower/Diagonal Bases:**
+    - Must include support structures capable of holding platforms up to 10m or about 2 single metal floors in any direction.
   - **Diagonal Extensions:** Bases jutting out diagonally from small sections will be removed after one warning.
 - **Vehicles Shooting from Bases:**
   - Vehicles with the gunner exposed are allowed to shoot from bases.
