@@ -24,7 +24,7 @@
   - **From Backpacks:** Respect others' backpacks and their contents.
   - **Ground Loot:** Items on the ground are fair game.
 - **No Ramming:** Avoid ramming other players or structures.
-- **No Edge Firing:** Do not shoot from the edge of the Trader Zone.
+- **No Safezone Hopping:** Do not shoot from the edge of the Trader Zone, or engage in combat and then run back to safety.
 - **Running to Safezone:** Allowed only if not engaging in safezone hopping.
 - **No Camping in Safezones:** Do not ambush players by monitoring safezones from a distance or setting up bases to watch safezones.
 - **No Revenge Killing:** Do not retaliate against rule breakers; doing so will result in punishment.
