@@ -32,7 +32,7 @@
 
 ## **💣 Kamikaze Rules**
 - **No Kamikazing in Aircraft:** Kamikaze actions inside any aircraft are strictly prohibited.
-- **No Kamikazing in Trader Areas:** Do not engage in kamikaze tactics within trader zones.
+- **No Ramming in Trader Areas:** Do not engage in kamikaze/ramming tactics within trader zones.
 - **Allowed Actions:** Using ground vehicles outside of safezone to hit other vehicles.
 
 ## **💬 Behavior & Side Chat**
