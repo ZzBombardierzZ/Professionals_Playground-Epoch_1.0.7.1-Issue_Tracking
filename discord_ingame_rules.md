@@ -1,4 +1,4 @@
-# **📜 Server Rules** *(Updated: 2024-10-27)*
+# **📜 Server Rules** *(Updated: 2024-11-13)*
 
 ## **🔧 Help & Reporting**
 - **Be Specific:** Clearly state your issue instead of just requesting an admin.
@@ -45,7 +45,8 @@
 - **No Server Advertising:** Advertising any server will lead to an immediate ban.
 - **Constructive Feedback Only:** Instead of negative comments like "the server sucks," suggest improvements on Discord where a poll might be initiated.
 - **Zero Tolerance for Toxicity:** Obnoxious or toxic behavior will result in removal from the server.
-- **No Impersonation:** Do not copy unique player or admin names.
+- **No Impersonation:** Do not intentionally copy the name of any other player or admin.
+  - It's recommended to use a unique name, as some players use their first name, which if multiple people have the same first name, it may be hard to enforce against other players copying names.
   - **Unique Example:** `XxSharpShooterxX`
   - **Non-Unique Example:** `Frank`
 
