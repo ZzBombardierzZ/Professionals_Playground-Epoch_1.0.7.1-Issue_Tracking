@@ -37,14 +37,13 @@
 
 ## **💬 Behavior & Side Chat**
 - **Use English:** Ensure all side chat conversations are in English.
-- **No Toxicity:** Toxic behavior is not tolerated. Admins will determine what constitutes toxicity.
+- **No Toxicity:** Obnoxious or toxic behavior is not tolerated. Admins will determine what constitutes toxicity.
 - **Respectful Communication:** Avoid racial, religious, or political discussions unless related to the game.
 - **Respect Admins and Players:** If asked to stop a behavior, comply immediately.
 - **No Slurs:** Homophobic or racial slurs in any chat form will lead to a ban.
 - **No External Insults:** Insulting Discord or other social media platforms will result in a ban.
 - **No Server Advertising:** Advertising any server will lead to an immediate ban.
 - **Constructive Feedback Only:** Instead of negative comments like "the server sucks," suggest improvements on Discord where a poll might be initiated.
-- **Zero Tolerance for Toxicity:** Obnoxious or toxic behavior will result in removal from the server.
 - **No Impersonation:** Do not intentionally copy the name of any other player or admin.
   - It's recommended to use a unique name, as some players use their first name, which if multiple people have the same first name, it may be hard to enforce against other players copying names.
   - **Unique Example:** `XxSharpShooterxX`
