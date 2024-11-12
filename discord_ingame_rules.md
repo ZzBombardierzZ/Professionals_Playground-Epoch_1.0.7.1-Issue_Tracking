@@ -89,8 +89,8 @@
 - **No Logging in Expert Missions with Loot:** If you have loot from expert missions, do not log out.
 - **No High-Value Gear Logging:** Logging out with over 300,000 coins worth of gear for more than an hour is prohibited.
 - **No Alt Accounts for Storing Value:** Do not use alternate accounts to store significant amounts of value.
-- **Consequences:** Violations may result in gear wipes and a 2-day ban.
 - **No Prop Clipping During Combat:** Actively using props or objects to collide with players is prohibited.
+- **Consequences:** Violations may result in gear wipes and a 2-day ban.
 
 ## **🗺️ Map Usage**
 - **No Spamming Map Markers:** Avoid excessive use of map markers.
