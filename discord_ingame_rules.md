@@ -3,7 +3,7 @@
 ## **🔧 Help & Reporting**
 - **Be Specific:** Clearly state your issue instead of just requesting an admin.
 - **Use Discord Tickets:** Report issues or seek support through the designated ticket system.
-- **Provide Evidence:** Video evidence (e.g., ShadowPlay) is highly recommended when reporting problems.
+- **Provide Evidence:** Video evidence is highly recommended when reporting problems. `Steam Game Recording` helps to be able to clip the last X minutes of gameplay.
 - **Accuse Responsibly:** Only call someone a hacker if you're certain. Gather proof and submit a ticket on Discord.
 
 ## **⚠️ The Obvious**
