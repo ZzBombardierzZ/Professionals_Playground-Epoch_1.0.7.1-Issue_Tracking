@@ -1,4 +1,4 @@
-# **📜 Server Rules** *(Updated: 2024-11-13)*
+# **📜 Server Rules** *(Updated: 2024-11-16)*
 
 ## **🔧 Help & Reporting**
 - **Be Specific:** Clearly state your issue instead of just requesting an admin.
@@ -7,7 +7,8 @@
 - **Accuse Responsibly:** Only call someone a hacker if you're certain. Gather proof and submit a ticket on Discord.
 
 ## **⚠️ The Obvious**
-- **No Glitching:** Exploiting game glitches is prohibited.
+- **No Glitching:** Glitching into bases or abusing other glitches is prohibited.
+- **No Exploiting:** Using exploits such as errors in trader prices will lead to a ban or wipe of all gear.
 - **No Duping:** Duplication of items will result in a ban and global blacklist.
 - **No Hack Scripts:** Using or distributing hack scripts leads to an immediate ban.
 - **No Advertising Other Servers:** Promoting other servers is not allowed and considered disrespectful.
